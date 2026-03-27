@@ -60,7 +60,7 @@ export default function Home() {
               <div className="w-full">
                 <div className="relative aspect-[3/4] w-full overflow-hidden border border-border bg-muted/30">
                   <Image
-                    src="/kelvin.jfif"
+                    src="/kelvin.png"
                     alt="Portrait of Kelvin Nimely"
                     fill
                     className="object-cover"
