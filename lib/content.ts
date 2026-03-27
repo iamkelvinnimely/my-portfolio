@@ -173,7 +173,7 @@ export const content = {
         roleOrType: "Learning Platform",
         description: "Structured development learning system.",
         bullets: ["Video-based lessons", "Practical learning approach"],
-        href: "https://www.codedator.com",
+        href: "https://code-dator-front-end.vercel.app",
         image: {
           src: "/projects/codedator-screenshot-ui.png",
           alt: "CodeDator landing page screenshot",
@@ -213,7 +213,7 @@ export const content = {
         },
       },
     ] satisfies Project[],
-    otherTitle: "Other work",
+    otherTitle: "",
     other: [
       // { name: "PrimeNova Technology", description: "Company website" },
       // { name: "Cool Appliances", description: "Business website" },
