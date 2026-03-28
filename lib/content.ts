@@ -184,9 +184,9 @@ export const content = {
         roleOrType: "Streaming Platform",
         description: "A video streaming platform built for accessible viewing experiences.",
         bullets: ["Content publishing workflows", "Playback-focused UI for web"],
-        href: "https://www.dorkenitv.com",
+        href: "https://dorkeni-tv.vercel.app",
         image: {
-          src: "/projects/dorkeni-tv-screenshot-ui.png",
+          src: "/projects/dorkenitv-screenshot-ui.png",
           alt: "Dorkeni Tv landing page screenshot",
         },
       },
